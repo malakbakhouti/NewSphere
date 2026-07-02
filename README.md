@@ -2,7 +2,7 @@
 
 NewSphere is a modern news exploration web application addressing the growing need for fast, reliable, and personalized access to information. It aggregates real-time news content via the NewsAPI, letting users browse, filter, and search articles across multiple categories through a fluid, responsive interface.
 
-This project was developed as an end-of-year academic project (PFA 3A) at EMSI. It included functional/non-functional requirements analysis and UML modeling (use case, class, and sequence diagrams) prior to development.
+This project was developed as an end-of-year academic project (PFA 3A) at EMSI. It included functional/non-functional requirements analysis and UML modeling (use case, class, and sequence diagrams) prior to development, supervised by **CHAIBI Loubna**.
 
 **🚀 Main Features**
 
